@@ -54,13 +54,6 @@ Here is the markdown for your `README.md` starting from the **Install dependenci
 ````markdown
 ### Installation
 
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/kunalrajbhar/PDF-Multi-Tool-Editor.git
-   cd Pdf-Multi-Tool-Editor
-````
-
 2. **Install dependencies:**
 
    ```bash
