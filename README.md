@@ -49,8 +49,6 @@ Before you begin, ensure you have the following installed:
    ```bash
    git clone https://github.com/kunalrajbhar/PDF-Multi-Tool-Editor.git
    cd Pdf-Multi-Tool-Editor
- 
-### Installation
 
 2. **Install dependencies:**
 
