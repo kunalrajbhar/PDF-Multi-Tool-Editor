@@ -49,9 +49,7 @@ Before you begin, ensure you have the following installed:
    ```bash
    git clone https://github.com/kunalrajbhar/PDF-Multi-Tool-Editor.git
    cd Pdf-Multi-Tool-Editor
-Here is the markdown for your `README.md` starting from the **Install dependencies** section in one go, with the code blocks intact:
-
-````markdown
+ 
 ### Installation
 
 2. **Install dependencies:**
